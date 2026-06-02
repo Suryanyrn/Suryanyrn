@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://link-to-your-hosted-threejs-animation.gif" alt="Surya's 3D Animation Header" width="800" />
+</p>
 <h1 align="center">Hi there, I'm Surya Narayananan 👋</h1>
 
 <h3 align="center">Versatile technologist skilled in Data Science, Machine Learning, and Full Stack Development.</h3>
