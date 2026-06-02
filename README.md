@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="5Gjg.gif" alt="Surya's 3D Animation Header" width="800" height="300"/>
+  <img src="3.gif" alt="Surya's 3D Animation Header" />
 </p>
 <h1 align="center">Hi there, I'm Surya Narayananan 👋</h1>
 
