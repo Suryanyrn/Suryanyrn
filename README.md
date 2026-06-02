@@ -6,13 +6,13 @@
   <a href="mailto:suryanryn0201@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/surya-narayanan-193865290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_LEETCODE_URL_HERE">
+  <a href="https://leetcode.com/u/suryanryn0201/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://suryanrynofficial.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -23,7 +23,7 @@
 - 🔭 I’m currently seeking **Internship opportunities in the IT industry** to apply my technical skills to impactful projects.
 - 🌱 I’m constantly learning and expanding my knowledge in **Machine Learning, NLP, RAG, Deep Learning, and Data Analytics**.
 - 👯 I’m a collaborative leader, having served as a **Class Representative & Placement Coordinator** and organized multiple campus events.
-- ⚡ Fun fact: I have solved over **200+ problems on LeetCode**, demonstrating strong analytical and algorithmic optimization capabilities!
+- ⚡ Achievements: I have solved over **200+ problems on LeetCode**, demonstrating strong analytical and algorithmic optimization capabilities!
 
 ---
 
@@ -88,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryanyrn&show_icons=true&theme=radium" alt="GitHub Stats" />
 </p>
