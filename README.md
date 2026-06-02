@@ -1,33 +1,92 @@
-# 👋 Hi there, I'm Surya Narayanan!  
+<h1 align="center">Hi there, I'm Surya Narayananan 👋</h1>
 
-## 🚀 About Me  
-I am a **Machine Learning Enthusiast** passionate about **NLP, Deep Learning, Web Development, Data Analytics, and Data Science**. I love solving real-world problems through technology and constantly work on improving my skills.  
+<h3 align="center">Versatile technologist skilled in Data Science, Machine Learning, and Full Stack Development.</h3>
 
-## 🔬 Projects I've Worked On  
-- 🩺 **Pneumonia Detection** using Deep Learning  
-- 🎮 **Gaming Web Development** (Tic-Tac-Toe, Stone-Paper-Scissors)  
-- 🎭 **IMDB Sentiment Analysis**  
-- 💡 **Problem Solving & Competitive Coding**  
-
-## 🛠 Tech Stack  
-
-### 💻 Programming & Scripting  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### 🤖 Machine Learning & AI  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-025E8C?style=for-the-badge&logo=python&logoColor=white)  
-
-### 🛢️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### 📊 Data Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-005F73?style=for-the-badge&logo=python&logoColor=white)  
-
-### 🌐 Web Development  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+<p align="center">
+  <a href="mailto:suryanryn0201@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL_HERE">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-### 📈 Always Learning & Growing!  
-I’m constantly working on new projects and expanding my knowledge.  
-Feel free to **connect with me**, explore my repositories, and collaborate! 🚀  
+### 👨‍💻 About Me
+- 🔭 I’m currently seeking **Internship opportunities in the IT industry** to apply my technical skills to impactful projects.
+- 🌱 I’m constantly learning and expanding my knowledge in **Machine Learning, NLP, RAG, Deep Learning, and Data Analytics**.
+- 👯 I’m a collaborative leader, having served as a **Class Representative & Placement Coordinator** and organized multiple campus events.
+- ⚡ Fun fact: I have solved over **200+ problems on LeetCode**, demonstrating strong analytical and algorithmic optimization capabilities!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Programming Languages** <p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+**Frameworks & Libraries** <p align="left">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</p>
+
+**Databases** <p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+**Tools & Platforms** <p align="left">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 💼 Work Experience
+**Data Analyst Intern** @ **Bosch, Gangaikondan Plant** *(Jul 2025 - Aug 2025)*
+- Leveraged Python (Pandas) for data manipulation and mapping.
+- Applied Industry 4.0 techniques to analyze production data, improving good part production from 88% to 92%.
+- Automated reporting through an email system to gain insights on daily production stats.
+
+---
+
+### 🚀 Featured Projects
+
+* **Custom RAG Q&A Chatbot** *Built a RAG pipeline using Sentence Transformers, Pinecone, and Mistral-7B to provide context-aware, accurate responses from custom business datasets.*
+* **Pneumonia Detection & Explainable AI**
+    *Developed a deep learning pipeline evaluating CNN architectures to detect pneumonia from chest X-ray imagery. Implemented Grad-CAM to visualize model focal points.*
+* **Present Sir - Attendance Managing Application**
+    *Developing a full-stack Django web app with JWT authentication, OTP verification, and REST APIs for class analytics and timetable management.*
+* **IMDB Sentiment Analysis**
+    *Engineered an NLP pipeline to clean, lemmatize, and apply TF-IDF vectorization to 50,000 movie reviews, achieving 89.45% predictive accuracy using Scikit-learn.*
+* **Personal Portfolio**
+    *Developed a responsive portfolio website using Django and PostgreSQL to easily update content and manage project displays.*
+
+---
+
+### 🏆 Achievements
+- 🎯 Solved **200+ problems on LeetCode**.
+- 🥇 Maintained the **top academic rank** in the class for three consecutive semesters.
+- 💡 Shortlisted in the **CMRG project** up to the pre-final stage (a student-led project worth 19 lakh sanction).
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" />
+</p>
